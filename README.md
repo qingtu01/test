@@ -1,2 +1,2 @@
-# test
-just a test
+# 新手注册
+hello git!
