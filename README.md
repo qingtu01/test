@@ -1,2 +1,2 @@
 # 新手注册
-hello git!
+hello world!
